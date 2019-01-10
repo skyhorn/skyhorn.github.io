@@ -20,4 +20,4 @@ nav:
  - name: "Blog"
    link: "/blog/"
  - name: "Contact"
-   link: "contact"
+   link: "/contact"
