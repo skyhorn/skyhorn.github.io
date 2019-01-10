@@ -1,4 +1,25 @@
-name: skyhorn
+title: skyhorn
+url: "https://skyhorn.github.io"
+baseurl: "/"
+
 markdown: kramdown
-theme: jekyll-theme-minimal
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Page design by Ankit Sultana"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/"
+ - name: "Blog"
+   link: "/blog/"
+ - name: "Contact"
+   link: "contact"
+
 permalink: /blog/:year/:month/:day/:title
