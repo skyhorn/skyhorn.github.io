@@ -16,8 +16,8 @@ sass:
 
 nav:
  - name: "About"
-   link: "/"
+   link: "/about"
  - name: "Blog"
-   link: "/blog/"
+   link: "/"
  - name: "Contact"
    link: "/contact"
