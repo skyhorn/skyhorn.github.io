@@ -1,6 +1,6 @@
 title: skyhorn
 url: "https://skyhorn.github.io"
-#baseurl: "/"
+baseurl: "https://skyhorn.github.io/"
 
 markdown: kramdown
 
