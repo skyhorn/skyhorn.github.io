@@ -3,6 +3,7 @@ url: "https://skyhorn.ca"
 baseurl: "/"
 
 markdown: kramdown
+#ins_logo: "./bits-logo.png"
 
 tracking_id: #
 

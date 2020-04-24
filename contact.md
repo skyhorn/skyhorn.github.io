@@ -5,15 +5,17 @@ is_contact: true
 
 * Email: [foo@xyz.com](mailto:foo@xyz.com)
 
+* Phone: [+91-123123](tel:+91-123123)
+
 ---
 
 ## Mailing Address
 
-> 123, OMG Street
+> 221B, Baker Street
 >
-> Moon
+> London
 >
-> In Space
+> United Kingdom
 
 ---
 

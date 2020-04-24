@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! Just testing out a new theme for my GitHub page.
+Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
 
 This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
@@ -17,7 +17,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 ## Publications
 
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. F.Bar, J.Doe: If I had one, I'll post it
+2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
 
 ## Typography
 
@@ -27,9 +27,9 @@ Here is a table
 
 Year | Award | Category
 -----|-------|--------
-2014 | Dundie  | Hottest in the Office
-2015 | Dundie | Don't Go in There After Me
-2016 | Dundie | Worst Salesman of the Year
+2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
+2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
+2014 | Satellite | Won Best Actor miniseries or television film
 
 Here is a horizontal rule
 
@@ -41,5 +41,5 @@ Here is a blockquote
 
 ## References
 
-* Foo Bar: Head of Department, Placeholder Names, Space
-* John Doe: Associate Professor, Department of Computer Science, Space
+* Foo Bar: Head of Department, Placeholder Names, Lorem
+* John Doe: Associate Professor, Department of Computer Science, Ipsum
