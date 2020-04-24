@@ -1,6 +1,6 @@
 title: skyhorn
 url: "https://skyhorn.ca"
-baseurl: "https://skyhorn.ca"
+baseurl: "/"
 
 markdown: kramdown
 
